@@ -27,6 +27,9 @@ void do_qt()
     qout.flush();
 }
 
+
+// Best way
+
 void do_mixed()
 {
     QTextStream qin(stdin);
