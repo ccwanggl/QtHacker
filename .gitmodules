@@ -1,0 +1,3 @@
+[submodule "Github/qt-material-widgets"]
+	path = Github/qt-material-widgets
+	url = https://github.com/ccwanggl/qt-material-widgets.git
