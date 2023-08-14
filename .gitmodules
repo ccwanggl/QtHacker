@@ -4,3 +4,6 @@
 [submodule "Github/qtkaifajingyan"]
 	path = Github/qtkaifajingyan
 	url = https://gitee.com/ccwangguoliang/qtkaifajingyan.git
+[submodule "Github/qt-widget-demo"]
+	path = Github/qt-widget-demo
+	url = https://github.com/ccwanggl/QWidgetDemo.git
